@@ -1,4 +1,7 @@
-﻿#include <iostream>
+﻿//Sortowanie babelkowe
+//Kacper Hnatyszyn 3prT5
+
+#include <iostream>
 #include <time.h>
 #include <windows.h>
 
